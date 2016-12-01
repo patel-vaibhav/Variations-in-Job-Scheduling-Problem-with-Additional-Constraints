@@ -1,8 +1,9 @@
 package JobScheduling;
 import java.util.*;
 
-//Scheduling Jobs With Deadlines, Profits, and Durations
-//http://www.cs.mun.ca/~kol/courses/2711-f13/dynprog.pdf 
+/*Dynamic programming algorithm for single processor and function to print schedule is derived from high level pseudo-code located at: 
+Scheduling Jobs With Deadlines, Profits, and Durations
+http://www.cs.mun.ca/~kol/courses/2711-f13/dynprog.pdf */
 
 public class DP2 {
 	public static void main(String[] args) {
